@@ -1,0 +1,13 @@
+SYNTHETIC DEMONSTRATION ONLY - not observed patient data.
+Generator reads control streams only; no clinical dataset is accessed.
+Seed: 4587316
+Fictional subjects: 96
+Explicit dose records: 192
+Artificial observations retained: 841
+Artificial observations excluded at DV < 5: 23
+Generating THETA starting values: 17.1, 67.6, 1, -0.645
+Generating OMEGA variances: 0.156, 0.329
+Generating SIGMA variance: 0.0712
+Input MD5: 811518bbce3bee7965c5a7921356f85e
+All four demo copies preserve the active code of the prepared v2 models.
+NONMEM estimation was NOT performed by this script.
