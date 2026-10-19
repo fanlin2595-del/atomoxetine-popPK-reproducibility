@@ -1,0 +1,21 @@
+# Generated NONMEM runs
+demo_runs/
+simulation_demo_runs/
+.Rhistory
+.RData
+.DS_Store
+*.rds
+*.RDS
+*.lst
+*.fit
+*.ext
+*.cov
+*.cor
+*.coi
+
+# Keep private analysis inputs and generated results out of Git
+/data/analysis_inputs/*
+!/data/analysis_inputs/README.md
+/results/
+
+# This is only an aid, not a privacy review or a safe-upload guarantee.
